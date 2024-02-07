@@ -15,3 +15,4 @@ a Streamlit application that allows users to upload an image of a business card 
     - Building streamlit dashboard
     - Migrate to SQL
     - options to view or modify or delete data
+![image2](https://github.com/MeghanaNagraja/BizCardX-Extracting-Business-Card-Data-with-OCR/assets/122547199/d25f154a-e37d-4b99-8c47-ef8fb4c72156)
